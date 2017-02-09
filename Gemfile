@@ -11,7 +11,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 #puffly for development
 #gem "puffly", '~> 0.1.8', :path => "/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/puffly-0.1.8/"
 
-gem "puffly", '~> 0.1.8'
+gem "puffly", '~> 0.1.9'
 gem "tzinfo-data"
 
 group :production do
